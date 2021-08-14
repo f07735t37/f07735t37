@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on some ideas for my first project 😉
-- 🌱 I’m currently learning to become a full stack developer with [Coding Black Females](https://codingblackfemales.com/)
+- 🌱 I’m currently learning full stack development with [Coding Black Females](https://codingblackfemales.com/)
 - 🤔 I’m looking for help with everything right now 😆
 - 💬 Ask me about how I remember the **cat** command for Windows Terminal!
 - 📫 How to reach me: on here
